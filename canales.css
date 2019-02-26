@@ -1,0 +1,53 @@
+#tituloPagina{
+  font-size: 40px;
+}
+.tablas{
+  margin: 0 auto;
+}
+.canalEncabezado{
+  border-width: 3px;
+  border-color: red;
+  font-size: 40px;
+  background-image: url('https://st2.depositphotos.com/1875497/9510/i/950/depositphotos_95100630-stock-photo-white-stone-textures.jpg');
+  text-align: center;
+}
+.descripcionCanal{
+  font-size: 30px;
+  background-color: beige;
+  border-width: 3px;
+}
+.videos{
+  border-width: 3px;
+}
+.categoria{
+  font-size: 20px;
+}
+#form p {
+  text-align: center;
+}
+
+#form label {
+  font-size: 20px;
+}
+
+input[type="radio"] {
+  display: none;
+}
+
+label {
+  color: grey;
+}
+
+.clasificacion {
+  direction: rtl;
+  unicode-bidi: bidi-override;
+}
+
+label:hover,
+label:hover ~ label {
+  color: orange;
+}
+
+input[type="radio"]:checked ~ label {
+  color: orange;
+}
