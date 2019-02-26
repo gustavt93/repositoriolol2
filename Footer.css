@@ -1,0 +1,15 @@
+.piepagina{
+  width: 100%;
+  text-align: center
+}
+/*.piepagina td:nth-child(even){
+  background-color: darkgray;
+}*/
+
+footer {
+  background-color: transparent;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 10px;
+}
