@@ -1,6 +1,7 @@
 .piepagina{
   width: 100%;
-  text-align: center
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
 }
 /*.piepagina td:nth-child(even){
   background-color: darkgray;
