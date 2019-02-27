@@ -1,15 +1,17 @@
 *{
     font-size: 18px;
+    
 }
-header{
-    width: 1000px;
-    margin: 20px auto;
+#id_header{
+    width: 800px;
+    margin: 0 auto;
 }
 main{
+    
     width: 500px;
-    margin: 20px auto;
+    margin: 0px auto 20px auto;
 }#title_id{
-    width: 300px;
+    width: 370px;
     margin: 0 auto;
 }
 #cargar{
@@ -32,7 +34,7 @@ img{
     width: 70px;
 }
 p{
-    margin-top: 8px;
+    margin-top: 10px;
     margin-left: 5%;
     color: red;
 }
@@ -45,16 +47,24 @@ h3{
 }
 #categoria{
     background-color: rgb(75, 64, 233);
+    margin: 0px 0px 0px 0px;
 }
 #hastag{
     background-color: aquamarine;
+    margin: 0px 0px 0px 0px;
 }
 #descripcion{
-    background-color: rosybrown;
+    background-color: rgb(32, 7, 7);
+    margin: 0px 0px 0px 0px;
 }#fecha{
     margin: 15px auto;
 }h1{
     font-size: 2.2em;
+}#id_accion{
+    margin-top: 10px;
+}#table2{
+    margin: 0px 0px 0px 0px;
+    height: 150px;
 }
 
 #videos{
@@ -70,17 +80,21 @@ h3{
     background-color: #649D45;
 }#categoria{
     background-color:#CAE9B8;
-    margin-right: -6px;
+    margin: 0px -6px 0px 0px;
+    height: 150px;
     border: 2px solid black;
 }#etiqueta{
     background-color: #ACC2F9;
-    margin-right: -6px;
+    margin: 0px -6px 0px 0px;
+    height: 150px;
     border: 2px solid black;
 }#descripcion{
     background-color: #FAB2AF;
+    margin: 0px 0px 0px 0px;
+    height: 150px;
     border: 2px solid black;
-}.content_table{
-    width: 140px;
+}.content_table1{
+    width: 340px;
     height: 125px;
 }th{
     text-align: center;
