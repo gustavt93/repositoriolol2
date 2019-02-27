@@ -12,6 +12,9 @@
     color: gray;
     width: 500px;
 }
+.tablas{
+  margin: auto;
+}
 #terminos{
     text-align: center;
 }

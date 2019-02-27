@@ -36,3 +36,9 @@ table{
 .t3 td:nth-child(1){
   color: red;
 }
+<<<<<<< HEAD
+=======
+.tdGus{
+  padding-left: 25px;
+  padding-right: 25px;
+}
